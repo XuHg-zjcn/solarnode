@@ -8592,16 +8592,6 @@
 		)
 		(uuid "012107c2-8c48-431e-b1b3-d41df1b0a60a")
 	)
-	(label "ADC_Ibus"
-		(at 162.56 101.6 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "054f5c1b-9263-4b59-82bb-205863e1fcee")
-	)
 	(label "ADC_PD"
 		(at 246.38 35.56 0)
 		(effects
@@ -8622,6 +8612,16 @@
 		)
 		(uuid "0bc0cae2-15b6-492a-be5b-4aecbd2d2e70")
 	)
+	(label "ADC_Ibus"
+		(at 168.91 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0bf8bef8-bb8b-457b-bc3b-f0d318d12400")
+	)
 	(label "MAX485_TR"
 		(at 196.85 95.25 0)
 		(effects
@@ -8641,16 +8641,6 @@
 			(justify right bottom)
 		)
 		(uuid "23e679a9-8160-4f70-8915-1054382e0d00")
-	)
-	(label "ADC_T"
-		(at 162.56 113.03 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "26440b3c-abc3-4960-9b99-b1b91933451b")
 	)
 	(label "SLR+"
 		(at 27.94 24.13 0)
@@ -8683,7 +8673,7 @@
 		(uuid "29e1f862-92ca-4138-82f4-54dd9259df98")
 	)
 	(label "SampEn"
-		(at 162.56 107.95 180)
+		(at 168.91 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8752,16 +8742,6 @@
 		)
 		(uuid "4494df25-02ae-4590-b9e1-b663f2bcebf1")
 	)
-	(label "MOS_DrvIn"
-		(at 162.56 105.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "495cd3ec-299d-4bdb-ba1d-b455673849ad")
-	)
 	(label "PUSH"
 		(at 198.12 105.41 0)
 		(effects
@@ -8781,16 +8761,6 @@
 			(justify left bottom)
 		)
 		(uuid "61b4d4f8-639b-40f1-bd7e-34b3a1c4ddc2")
-	)
-	(label "ADC_PD"
-		(at 162.56 110.49 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "68263f0b-6be6-4886-9dcb-0af16a275c13")
 	)
 	(label "485-"
 		(at 27.94 36.83 0)
@@ -8873,6 +8843,16 @@
 		(uuid "8f0b6cc5-f466-414a-92d7-5fa23bffcf2e")
 	)
 	(label "MOS_DrvIn"
+		(at 168.91 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "938b20e8-f6f9-4105-9bc3-49233f470a71")
+	)
+	(label "MOS_DrvIn"
 		(at 39.37 170.18 180)
 		(effects
 			(font
@@ -8912,25 +8892,15 @@
 		)
 		(uuid "b38d573f-af33-4bb5-90bd-28d888234bb4")
 	)
-	(label "ADC_Vslr"
-		(at 162.56 93.98 180)
+	(label "ADC_Islr"
+		(at 168.91 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "c11899e9-0c3b-4cfc-ae28-8c8d05ee94bb")
-	)
-	(label "ADC_Vbus"
-		(at 162.56 96.52 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c34d2322-faa6-49b1-86aa-0ff12cd82fb8")
+		(uuid "c02b310d-fbf8-44a6-88c0-41c2d7667270")
 	)
 	(label "BUS+"
 		(at 259.08 78.74 180)
@@ -8952,15 +8922,15 @@
 		)
 		(uuid "c61579b8-9617-466f-b3ee-ea07ca6f2731")
 	)
-	(label "MAX485_RO"
-		(at 196.85 100.33 0)
+	(label "ADC_Vslr"
+		(at 168.91 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "c7e3ebac-de14-4485-bc7e-3dc423c1e3f9")
+		(uuid "c94f4e18-62b6-4a61-b6e1-e33d4b27b02a")
 	)
 	(label "MOS_G"
 		(at 60.96 170.18 0)
@@ -8972,18 +8942,28 @@
 		)
 		(uuid "cb9da78d-25f9-435c-a223-af056e0a2b75")
 	)
-	(label "ADC_Islr"
-		(at 162.56 99.06 180)
+	(label "ADC_Vbus"
+		(at 168.91 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "cdcaa655-a091-4a8c-91f1-bbd821693c27")
+		(uuid "cf123b32-4f5a-4349-9024-08044335ad8a")
+	)
+	(label "MAX485_RO"
+		(at 168.91 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d354d9b4-6798-4943-a83c-abcd8a95989a")
 	)
 	(label "MAX485_DI"
-		(at 162.56 118.11 180)
+		(at 168.91 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8991,6 +8971,16 @@
 			(justify right bottom)
 		)
 		(uuid "daaf73c9-b91c-4826-a626-559ce7e2f1a8")
+	)
+	(label "ADC_PD"
+		(at 168.91 107.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e1ebf31b-8d17-4f32-bd23-67eb2e462943")
 	)
 	(label "BUS+"
 		(at 48.26 29.21 0)
@@ -9062,6 +9052,16 @@
 		)
 		(uuid "f2a40dd4-b523-43b3-9ac1-5cd1627b76b6")
 	)
+	(label "I2C_SDA"
+		(at 196.85 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f34f5cbf-e932-466d-a745-904716c57407")
+	)
 	(label "SLR_Is"
 		(at 93.98 185.42 0)
 		(effects
@@ -9071,6 +9071,16 @@
 			(justify left bottom)
 		)
 		(uuid "f52a1664-4886-4678-aaaf-c9e48f076afa")
+	)
+	(label "ADC_T"
+		(at 168.91 110.49 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fb379be5-5a4d-4e3e-afb2-7a74e08f7fa4")
 	)
 	(symbol
 		(lib_id "Device:R")
