@@ -6169,12 +6169,6 @@
 		(uuid "4c49a964-2920-4bdd-b772-28a07f5f3d26")
 	)
 	(junction
-		(at 41.91 170.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "57e14cf3-85e8-458a-8c6b-a90a5de272d5")
-	)
-	(junction
 		(at 222.25 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6233,6 +6227,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8051de4f-9ebb-4803-b98b-35c5605a4d0d")
+	)
+	(junction
+		(at 41.91 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88872100-4120-4f6e-ba8b-05a1ef2f4880")
 	)
 	(junction
 		(at 259.08 88.9)
@@ -6512,7 +6512,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 101.6) (xy 27.94 101.6)
+			(xy 17.78 101.6) (xy 19.05 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6559,16 +6559,6 @@
 			(type default)
 		)
 		(uuid "0bfa91aa-6caf-4afa-8e16-105723ed314d")
-	)
-	(wire
-		(pts
-			(xy 41.91 163.83) (xy 41.91 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c411d08-c183-41c7-a085-be72e6d6f698")
 	)
 	(wire
 		(pts
@@ -7872,6 +7862,26 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 172.72) (xy 41.91 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f2ccd48-171e-44dc-8473-ad993efe06d3")
+	)
+	(wire
+		(pts
+			(xy 41.91 163.83) (xy 41.91 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fbdb9be-71fc-4f62-a255-4b178d95597c")
+	)
+	(wire
+		(pts
 			(xy 158.75 107.95) (xy 158.75 109.22)
 		)
 		(stroke
@@ -8059,6 +8069,16 @@
 			(type default)
 		)
 		(uuid "a2087c2d-8918-4ba9-866a-8cfc4f6f6f97")
+	)
+	(wire
+		(pts
+			(xy 26.67 101.6) (xy 27.94 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2fc40c6-25df-46ab-9880-f65727a21c13")
 	)
 	(wire
 		(pts
@@ -8442,16 +8462,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 170.18) (xy 41.91 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc8c0885-bdb0-41b0-9ee4-3b9277ea03de")
-	)
-	(wire
-		(pts
 			(xy 168.91 118.11) (xy 170.18 118.11)
 		)
 		(stroke
@@ -8662,7 +8672,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 170.18) (xy 41.91 170.18)
+			(xy 39.37 176.53) (xy 41.91 176.53)
 		)
 		(stroke
 			(width 0)
@@ -8990,16 +9000,6 @@
 		)
 		(uuid "059bbc77-d7dd-47a0-bf41-ead8550f529d")
 	)
-	(label "Vdco"
-		(at 119.38 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0bc0cae2-15b6-492a-be5b-4aecbd2d2e70")
-	)
 	(label "ADC_Ibus"
 		(at 168.91 97.79 180)
 		(effects
@@ -9251,7 +9251,7 @@
 		(uuid "938b20e8-f6f9-4105-9bc3-49233f470a71")
 	)
 	(label "MOS_DrvIn"
-		(at 39.37 170.18 180)
+		(at 39.37 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9441,7 +9441,7 @@
 		(uuid "ed69b8d9-8274-4fad-b2d2-49921bd8bdd4")
 	)
 	(label "MAX485_RO"
-		(at 26.67 101.6 180)
+		(at 17.78 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12914,7 +12914,7 @@
 				)
 			)
 		)
-		(property "Value" "SGM2033-5.0"
+		(property "Value" "SGM2033-3.3"
 			(at 134.62 33.02 0)
 			(effects
 				(font
@@ -14730,7 +14730,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "18k"
+		(property "Value" "20k"
 			(at 99.06 44.4499 0)
 			(effects
 				(font
@@ -15149,6 +15149,76 @@
 			(project ""
 				(path "/4bca4b2b-dcb0-465d-ab23-8d5d35a41dfe"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 22.86 101.6 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ccdeb11-d474-4214-884e-176865ecfef8")
+		(property "Reference" "D11"
+			(at 24.0722 99.568 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.0V"
+			(at 21.6479 99.568 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 22.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 22.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 22.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a0e7b1bd-fbc6-43c9-b09e-769918c58452")
+		)
+		(pin "2"
+			(uuid "8e3e3190-1d05-46d8-b68b-95f670ce14d1")
+		)
+		(instances
+			(project "solornode"
+				(path "/4bca4b2b-dcb0-465d-ab23-8d5d35a41dfe"
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -17155,6 +17225,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Zener")
+		(at 41.91 168.91 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5ba6d75-2cef-4614-b3a8-1c3e0c6c61b3")
+		(property "Reference" "D10"
+			(at 39.878 167.6978 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.0V"
+			(at 39.878 170.1221 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 41.91 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.91 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 41.91 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4200be42-f50d-4aa8-96b7-20100bff6588")
+		)
+		(pin "2"
+			(uuid "f4a928e6-eceb-499f-904b-1fc72398ef09")
+		)
+		(instances
+			(project ""
+				(path "/4bca4b2b-dcb0-465d-ab23-8d5d35a41dfe"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 97.79 171.45 0)
 		(unit 1)
@@ -17311,6 +17451,72 @@
 			(project "solornode"
 				(path "/4bca4b2b-dcb0-465d-ab23-8d5d35a41dfe"
 					(reference "#PWR11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 119.38 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ddcba824-864d-4cc1-8333-9172f8d0dcbe")
+		(property "Reference" "#PWR28"
+			(at 119.38 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 119.38 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 119.38 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8af5d932-bab7-49a4-9a5b-f8debd9d4f92")
+		)
+		(instances
+			(project "solornode"
+				(path "/4bca4b2b-dcb0-465d-ab23-8d5d35a41dfe"
+					(reference "#PWR28")
 					(unit 1)
 				)
 			)
