@@ -156,7 +156,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "e1eb8f6d-7dd6-4b7d-9875-da20f19e57de")
@@ -1010,7 +1010,7 @@
 				)
 			)
 		)
-		(property "Value" "PY32F003F1xUx"
+		(property "Value" "PY32F003F18U6TR"
 			(at 0 2.83 0)
 			(layer "F.Fab")
 			(uuid "da55be89-6432-4bba-812e-9c1ca4d0548b")
@@ -1033,7 +1033,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.puyasemi.com/download_path/%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C/MCU%20%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8/PY32F003%E7%B3%BB%E5%88%97%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C_V2.7.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1575,7 +1575,7 @@
 		(path "/83d14422-a986-404b-8753-4777e7edc491")
 		(sheetname "根目录")
 		(sheetfile "solornode.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -1.685 0.96)
 			(end 1 0.96)
@@ -1756,7 +1756,7 @@
 				)
 			)
 		)
-		(property "Value" "GDT_2Pin"
+		(property "Value" "75V"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "8a0d2dac-1a85-4fd8-bbb6-49e495fea8fa")
@@ -1969,7 +1969,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470R"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "1096353d-2295-4c17-8230-0fdc2eef1816")
@@ -3042,7 +3042,7 @@
 				)
 			)
 		)
-		(property "Value" "Q_NMOS_GDS"
+		(property "Value" "AO3400"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "f5c512ce-987e-466a-adb1-daf1ec7d6093")
@@ -3557,7 +3557,7 @@
 				)
 			)
 		)
-		(property "Value" "ESD5Zxx"
+		(property "Value" "CESDB5V0D3"
 			(at 0.1 1.9 0)
 			(layer "F.Fab")
 			(uuid "c4d9d1b4-6ac1-4f3a-a39b-224af4a08330")
@@ -3581,7 +3581,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3843,7 +3843,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "23217b60-1ef5-4bd9-a011-47c0d72783f8")
@@ -4201,7 +4201,7 @@
 				)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "10uF 100V"
 			(at 0 4.35 90)
 			(layer "F.Fab")
 			(uuid "7cd7a975-a8ee-4b81-a0d2-b12f68e57349")
@@ -4644,7 +4644,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 100V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "6d76fea3-3710-4930-a1d1-06d22bbc7968")
@@ -4911,7 +4911,7 @@
 		(path "/88f42205-2b8c-4d63-8a21-4ccde2d54fdd")
 		(sheetname "根目录")
 		(sheetfile "solornode.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)
@@ -5072,7 +5072,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 100V"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "44795ea3-5bdf-497a-85ff-e5f19b337737")
@@ -5308,7 +5308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv700.pdf"
+		(property "Datasheet" "https://www.sg-micro.com/cn/product/SGM2033"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5569,7 +5569,7 @@
 				)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "47uH"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "47b3b19b-e37a-4d5e-ab2d-412fefcaed4d")
@@ -5784,7 +5784,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "e3a4b61b-765d-4815-87ff-79388e024070")
@@ -5997,7 +5997,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "2.2uF 100V"
 			(at 0 2.3 90)
 			(layer "F.Fab")
 			(uuid "6b375b72-1942-4a69-9a50-a57eec6435e1")
@@ -6272,7 +6272,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lv2862.pdf"
+		(property "Datasheet" "http://ocxsemi.com/uploads/soft/20220426/1650943254.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6543,7 +6543,7 @@
 				)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "22uF 50V"
 			(at 0 4.35 90)
 			(layer "F.Fab")
 			(uuid "55c6bb36-366d-4fd8-a196-5cd75aa31265")
@@ -7238,7 +7238,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22R"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "1820b830-292d-4441-828c-902047f5efc5")
@@ -7451,7 +7451,7 @@
 				)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "1000R"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "5f2eb787-b5ee-4496-bb88-ee4c73168505")
@@ -7664,7 +7664,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2u"
+		(property "Value" "1uF 100V"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "3469face-43dd-4fc8-b6ec-ed8261f290dc")
@@ -7877,7 +7877,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "2.2uF 100V"
 			(at 0 2.3 90)
 			(layer "F.Fab")
 			(uuid "db0f3fd4-a536-4486-949d-abe853c69ad8")
@@ -8396,7 +8396,7 @@
 		(path "/677eec38-7055-45fc-b87a-ffbc5048ee82")
 		(sheetname "根目录")
 		(sheetfile "solornode.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
 			(end 0.237258 0.5225)
@@ -8557,7 +8557,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22R"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "c711813c-8456-4ada-8266-d837639b7d74")
@@ -8983,7 +8983,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "b2671d09-f918-4bb0-a95f-09a6effc4fc7")
@@ -9409,7 +9409,7 @@
 				)
 			)
 		)
-		(property "Value" "ESD5Zxx"
+		(property "Value" "CESDB5V0D3"
 			(at 0.1 1.9 0)
 			(layer "F.Fab")
 			(uuid "16eb7c07-9cee-444c-abf7-dfa2a5540210")
@@ -9433,7 +9433,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+		(property "Datasheet" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9908,7 +9908,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "de72be40-2dbd-438b-aa85-5b579b598e2a")
@@ -10413,7 +10413,7 @@
 				)
 			)
 		)
-		(property "Value" "ESD5Zxx"
+		(property "Value" "CESDB5V0D3"
 			(at 0.1 1.9 90)
 			(layer "F.Fab")
 			(uuid "1c03e64c-00dd-461e-826e-f71eca2142f0")
@@ -10437,7 +10437,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11425,7 +11425,7 @@
 		(path "/943264bb-5a41-46f4-b46e-5648d6c65093")
 		(sheetname "根目录")
 		(sheetfile "solornode.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
 			(end 0.237258 -0.5225)
@@ -11640,7 +11640,7 @@
 		(path "/3a98587c-d041-4e06-b9cc-7141a8abbfa2")
 		(sheetname "根目录")
 		(sheetfile "solornode.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -11799,7 +11799,7 @@
 				)
 			)
 		)
-		(property "Value" "GDT_2Pin"
+		(property "Value" "75V"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "d1bb1ae4-33c7-4b95-bb1b-b4086110b5f9")
@@ -12477,7 +12477,7 @@
 				)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "1000R"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "e748e5bb-1381-4f72-82af-d47ea970c004")
@@ -12904,7 +12904,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "863801e0-56a4-4fc7-a842-d374deb39cad")
@@ -13117,7 +13117,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Coupled"
+		(property "Value" "1000R"
 			(at 0 -4 90)
 			(layer "F.Fab")
 			(uuid "90480c93-8e19-41c3-94ca-e11716e5f4f3")
@@ -13402,7 +13402,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "3*4*2mm"
 			(at 0 2.5 90)
 			(layer "F.Fab")
 			(uuid "ee11715c-83e5-467b-9b89-dc1e49307551")
@@ -14176,7 +14176,7 @@
 				)
 			)
 		)
-		(property "Value" "GDT_2Pin"
+		(property "Value" "75V"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "0e716616-b587-4477-8da3-81c8666a4561")
@@ -14388,7 +14388,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "DSF1D"
 			(at 0 2.1 90)
 			(layer "F.Fab")
 			(uuid "763dcbce-84eb-4988-ba55-18f657ddbaf7")
@@ -15802,7 +15802,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Q_PNP_BCE"
+		(property "Value" "S8550"
 			(at 0 -2.4 0)
 			(layer "B.Fab")
 			(uuid "9cae1909-7c52-4332-95ad-ecdc624d9645")
@@ -17382,7 +17382,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7n"
+		(property "Value" "4.7nF"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "bfb129a5-bd67-4ed0-80fa-89edf86329a2")
@@ -17893,7 +17893,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "e301910a-21f9-4b8f-880c-bfe916f8ae2c")
@@ -18417,7 +18417,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "CESD3V3D5"
 			(at 0 -1.4 90)
 			(layer "B.Fab")
 			(uuid "41634aaa-3341-4a94-92fe-ad9d16fd4975")
@@ -19807,7 +19807,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/5515aca6-96dd-43bb-9b60-0296b07b0072")
+		(path "/2f96b7b1-cc09-4bd7-9517-5c6a53de022f")
 		(sheetname "根目录")
 		(sheetfile "solornode.kicad_sch")
 		(attr smd)
@@ -20074,7 +20074,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "4.7n"
+		(property "Value" "4.7nF"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "b00781bb-c7db-4cb2-9e92-689931389d1e")
@@ -20512,7 +20512,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "DSF1D"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "62477097-33d8-4356-ba66-5424057d7bee")
@@ -20842,7 +20842,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "CESD3V3D5"
 			(at 0 -1.4 90)
 			(layer "B.Fab")
 			(uuid "8228fb6e-1bb7-49d0-bc04-f24f2be703c8")
@@ -21133,7 +21133,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Q_NPN_BCE"
+		(property "Value" "S8050"
 			(at 0 -2.4 90)
 			(layer "B.Fab")
 			(uuid "679bad35-f8e5-42ec-b27c-7a04cf3444ad")

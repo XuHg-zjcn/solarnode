@@ -9812,7 +9812,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "CESD3V3D5"
 			(at 240.03 95.2499 90)
 			(effects
 				(font
@@ -10130,7 +10130,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "2.2uF 100V"
 			(at 129.032 162.052 0)
 			(effects
 				(font
@@ -10226,7 +10226,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "DSF1D"
 			(at 78.74 22.4098 0)
 			(effects
 				(font
@@ -10408,7 +10408,7 @@
 				)
 			)
 		)
-		(property "Value" "L_Coupled"
+		(property "Value" "1000R"
 			(at 63.119 96.52 0)
 			(effects
 				(font
@@ -10482,7 +10482,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 100V"
 			(at 105.41 99.06 90)
 			(effects
 				(font
@@ -10753,7 +10753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 135.89 43.1799 0)
 			(effects
 				(font
@@ -10822,7 +10822,7 @@
 				)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "1000R"
 			(at 96.4692 93.98 90)
 			(effects
 				(font
@@ -11027,7 +11027,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS_GDS"
+		(property "Value" "AO3400"
 			(at 116.84 172.7199 0)
 			(effects
 				(font
@@ -11566,7 +11566,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GDT_2Pin"
+		(property "Value" "75V"
 			(at 115.5701 102.87 0)
 			(effects
 				(font
@@ -11763,7 +11763,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3a98587c-d041-4e06-b9cc-7141a8abbfa2")
 		(property "Reference" "TH1"
@@ -12074,7 +12074,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_PNP_BCE"
+		(property "Value" "S8550"
 			(at 60.96 162.5601 0)
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22R"
 			(at 53.34 95.25 90)
 			(effects
 				(font
@@ -12337,7 +12337,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GDT_2Pin"
+		(property "Value" "75V"
 			(at 114.3 119.3799 0)
 			(effects
 				(font
@@ -12641,7 +12641,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 260.35 31.7499 0)
 			(effects
 				(font
@@ -13032,7 +13032,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Zener"
+		(property "Value" "CESD3V3D5"
 			(at 266.7 95.2499 90)
 			(effects
 				(font
@@ -13185,7 +13185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tlv700.pdf"
+		(property "Datasheet" "https://www.sg-micro.com/cn/product/SGM2033"
 			(at 152.4 38.1 0)
 			(effects
 				(font
@@ -13521,7 +13521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 146.05 43.1799 0)
 			(effects
 				(font
@@ -13590,7 +13590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESD5Zxx"
+		(property "Value" "CESDB5V0D3"
 			(at 67.818 112.776 90)
 			(effects
 				(font
@@ -13608,7 +13608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+		(property "Datasheet" ""
 			(at 72.39 102.87 0)
 			(effects
 				(font
@@ -13725,7 +13725,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470R"
 			(at 201.93 116.84 90)
 			(effects
 				(font
@@ -13933,7 +13933,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 166.37 43.1799 0)
 			(effects
 				(font
@@ -14061,7 +14061,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "677eec38-7055-45fc-b87a-ffbc5048ee82")
 		(property "Reference" "J2"
@@ -14143,7 +14143,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.2u"
+		(property "Value" "1uF 100V"
 			(at 90.17 35.5599 0)
 			(effects
 				(font
@@ -14279,7 +14279,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NPN_BCE"
+		(property "Value" "S8050"
 			(at 60.96 177.7999 0)
 			(effects
 				(font
@@ -14379,7 +14379,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "3*4*2mm"
 			(at 226.06 30.4799 90)
 			(effects
 				(font
@@ -14543,7 +14543,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESD5Zxx"
+		(property "Value" "CESDB5V0D3"
 			(at 66.548 121.666 90)
 			(effects
 				(font
@@ -14561,7 +14561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+		(property "Datasheet" ""
 			(at 71.12 113.03 0)
 			(effects
 				(font
@@ -14601,7 +14601,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "83d14422-a986-404b-8753-4777e7edc491")
 		(property "Reference" "D8"
@@ -14749,7 +14749,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7n"
+		(property "Value" "4.7nF"
 			(at 246.38 95.2499 0)
 			(effects
 				(font
@@ -14808,7 +14808,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "88f42205-2b8c-4d63-8a21-4ccde2d54fdd")
 		(property "Reference" "J3"
@@ -15052,7 +15052,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 100V"
 			(at 105.41 93.98 90)
 			(effects
 				(font
@@ -15120,7 +15120,7 @@
 				)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "DSF1D"
 			(at 78.74 27.4898 0)
 			(effects
 				(font
@@ -15284,7 +15284,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "943264bb-5a41-46f4-b46e-5648d6c65093")
 		(property "Reference" "J4"
 			(at 175.26 139.6999 0)
@@ -15778,7 +15778,7 @@
 				)
 			)
 		)
-		(property "Value" "30"
+		(property "Value" "1000R"
 			(at 96.4692 99.06 90)
 			(effects
 				(font
@@ -15914,7 +15914,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ESD5Zxx"
+		(property "Value" "CESDB5V0D3"
 			(at 75.184 120.904 90)
 			(effects
 				(font
@@ -15932,7 +15932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
+		(property "Datasheet" ""
 			(at 74.93 113.03 0)
 			(effects
 				(font
@@ -16120,7 +16120,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 241.3 41.9099 0)
 			(effects
 				(font
@@ -16189,7 +16189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "10uF 100V"
 			(at 123.19 162.052 0)
 			(effects
 				(font
@@ -16515,7 +16515,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7n"
+		(property "Value" "4.7nF"
 			(at 273.05 95.2499 0)
 			(effects
 				(font
@@ -16654,7 +16654,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 261.62 139.6999 0)
 			(effects
 				(font
@@ -16768,7 +16768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lv2862.pdf"
+		(property "Datasheet" "http://ocxsemi.com/uploads/soft/20220426/1650943254.pdf"
 			(at 95.25 21.59 0)
 			(effects
 				(font
@@ -16831,7 +16831,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "22uF 50V"
 			(at 90.17 161.544 0)
 			(effects
 				(font
@@ -17223,7 +17223,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GDT_2Pin"
+		(property "Value" "75V"
 			(at 116.84 116.8401 0)
 			(effects
 				(font
@@ -17651,7 +17651,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "2.2uF 100V"
 			(at 96.012 161.544 0)
 			(effects
 				(font
@@ -18110,7 +18110,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22R"
 			(at 53.34 100.33 90)
 			(effects
 				(font
@@ -18179,7 +18179,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 224.79 41.9099 0)
 			(effects
 				(font
@@ -18319,7 +18319,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PY32F003F1xUx"
+		(property "Value" "PY32F003F18U6TR"
 			(at 185.0741 87.63 0)
 			(effects
 				(font
@@ -18337,7 +18337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.puyasemi.com/download_path/%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C/MCU%20%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8/PY32F003%E7%B3%BB%E5%88%97%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C_V2.7.pdf"
 			(at 182.88 104.14 0)
 			(effects
 				(font
@@ -18445,7 +18445,7 @@
 				)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "47uH"
 			(at 127 30.48 90)
 			(effects
 				(font
