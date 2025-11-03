@@ -10276,7 +10276,7 @@
 	)
 	(symbol
 		(lib_id "Device:NetTie_2")
-		(at 133.35 181.61 90)
+		(at 133.35 181.61 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -10285,24 +10285,24 @@
 		(fields_autoplaced yes)
 		(uuid "1e8df454-b23f-480e-82b7-f1a3a191ceda")
 		(property "Reference" "NT1"
-			(at 134.62 180.3399 90)
+			(at 134.112 180.3978 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "NetTie_2"
-			(at 134.62 182.8799 90)
+			(at 134.112 182.8221 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
+		(property "Footprint" "ProjectLibrary:NetTie-2_VIA_Pad0.6_0.3mm"
 			(at 133.35 181.61 0)
 			(effects
 				(font
