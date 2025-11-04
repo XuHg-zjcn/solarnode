@@ -208,7 +208,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e31bc764-36c9-4426-b556-3aec4594de5c")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -422,7 +422,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ec8bec3e-02b1-4437-bf4f-a98e3bec6bf9")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -635,7 +635,7 @@
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/b5d2ae91-df3a-439b-a0c1-504670af196c")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.162779 -0.51)
@@ -849,7 +849,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a6f2a169-e64e-4a7d-9983-306c4a342e98")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -1058,7 +1058,7 @@
 		)
 		(path "/ef0c5f5d-6033-463c-b4b6-a999da7f58bd")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 -1.16)
@@ -1573,7 +1573,7 @@
 		)
 		(path "/83d14422-a986-404b-8753-4777e7edc491")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -1.685 0.96)
@@ -1807,7 +1807,7 @@
 		)
 		(path "/c899da93-f327-4142-b96f-874a307eba7f")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -2021,7 +2021,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/63c2150e-7d50-418c-926f-48b78bdc02ff")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -2273,7 +2273,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5b842767-d5c4-4f3e-89f9-520c2514d942")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.21 -1)
@@ -2568,7 +2568,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4325f606-1438-4dc5-9e76-5f9083c2c7d6")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.485 0.735)
@@ -2838,7 +2838,7 @@
 		)
 		(path "/2e844083-8df5-450f-b340-5e627977d3ff")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -3105,7 +3105,7 @@
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/6531892e-33d1-4e86-b114-ed1a96e6921e")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.162779 -0.51)
@@ -3318,7 +3318,7 @@
 		(property ki_fp_filters "D?SOD?523*")
 		(path "/a743d474-3960-4ba2-8f0d-7c837479cbe8")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 0.85)
@@ -3604,7 +3604,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/af4073c0-f354-4c40-b4f2-358318d767bf")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -3858,7 +3858,7 @@
 		(property ki_fp_filters "Net*Tie*")
 		(path "/1e8df454-b23f-480e-82b7-f1a3a191ceda")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(net_tie_pad_groups "1, 2")
 		(pad "1" thru_hole circle
@@ -3996,7 +3996,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/af82634b-34bb-40c3-884b-ecd477dbb651")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.41 -3.41)
@@ -4400,7 +4400,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/218d4974-7b93-46b7-b6d6-57089334689f")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -4613,7 +4613,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/88f42205-2b8c-4d63-8a21-4ccde2d54fdd")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -4828,7 +4828,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8ed08b8e-ec75-4550-88cd-4231cc7c803d")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -5038,7 +5038,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/549b2a08-cd84-4a3e-aea4-d86222371420")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -5325,7 +5325,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/fa7e44e9-ae46-4eb8-a97e-b55a06c85e06")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 1.36)
@@ -5540,7 +5540,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6697c5ad-8b0f-459b-9f6d-fc7d8ccc6278")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -5792,7 +5792,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d7ca4c76-df48-4763-bbdb-f874eaa85b8a")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 1.36)
@@ -6002,7 +6002,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/b75f6d22-1dce-4b19-b16b-09c37a64eb27")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -1.56)
@@ -6338,7 +6338,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/bc26dbaf-b4b1-45db-9538-0245ff815089")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.345563 3.41)
@@ -6781,7 +6781,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4f0339c6-1ec1-41e5-a62c-517a9cafa98b")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -6994,7 +6994,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3fce1303-7de5-4fd0-8823-a3eb9d9903df")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -7207,7 +7207,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/a5992abd-c9fe-4468-a820-48226e122a12")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.162779 -0.51)
@@ -7420,7 +7420,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/72fd005e-9ca0-438a-8b89-c20ddab7096b")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -7672,7 +7672,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1aa5fbb8-f69d-495a-ad7c-16c84b7063b5")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -1.36)
@@ -7885,7 +7885,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/34c34645-5b0e-4d1b-94a5-d2cb8acf7d0e")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -8098,7 +8098,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/677eec38-7055-45fc-b87a-ffbc5048ee82")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -8313,7 +8313,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e2e72447-4136-4026-91cb-2fc80053f5d6")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -8526,7 +8526,7 @@
 		(property ki_fp_filters "*Fuse*")
 		(path "/3e6ab371-84cf-4ad3-8a3f-613a63c2f748")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 0.91)
@@ -8739,7 +8739,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/24f8b331-1954-4dd8-8a5a-afe29e32dec9")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -8952,7 +8952,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/669d1fc6-fa5c-450e-8f44-484a6835e990")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -9165,7 +9165,7 @@
 		(property ki_fp_filters "D?SOD?523*")
 		(path "/829d71ce-d4d7-4c93-85d6-e5e04b91c8c3")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 0.85)
@@ -9451,7 +9451,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8bb5a438-f844-404b-baa0-dc39a82193ed")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -9664,7 +9664,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5ce26863-2aa3-414d-9b36-fc6ad5059f5b")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -9913,7 +9913,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/36b4a5f0-8e5e-4a96-a175-29d1b1494a57")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 -3.56)
@@ -10169,7 +10169,7 @@
 		(property ki_fp_filters "D?SOD?523*")
 		(path "/610e5c20-2a37-4b94-93a7-72a451cf357e")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 -0.85)
@@ -10495,7 +10495,7 @@
 		(property ki_fp_filters "Net*Tie*")
 		(path "/d1bfcb03-7603-412b-8fba-72b93313a0bc")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
@@ -10596,7 +10596,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/93f2ace2-bddc-40b4-a971-45ab2f63450b")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.56)
@@ -10914,7 +10914,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2b0a4622-3693-4801-8c29-8988a104d28a")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -11127,7 +11127,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/943264bb-5a41-46f4-b46e-5648d6c65093")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -11342,7 +11342,7 @@
 		(property ki_fp_filters "*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/3a98587c-d041-4e06-b9cc-7141a8abbfa2")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -11554,7 +11554,7 @@
 		)
 		(path "/4175165f-350e-4344-9534-32d84c30fb29")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -11768,7 +11768,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/233b4d5f-83dd-4bcb-8cab-7b9fe2d0eb87")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 0.38)
@@ -12020,7 +12020,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/305f6b88-2855-463a-b808-ccf79bd38a1f")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -12233,7 +12233,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/27e36579-43f6-4391-a2ef-cc768a87cc34")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.162779 -0.51)
@@ -12446,7 +12446,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2443efde-e32f-4d87-b181-28a11476915c")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 -0.51)
@@ -12660,7 +12660,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/48a4bf36-8de7-4c93-ad79-40351fa745bd")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -12873,7 +12873,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/1f63ef52-b6a2-414a-8de1-fd7a654f8f29")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.95 -2.845)
@@ -13157,7 +13157,7 @@
 		)
 		(path "/79ac758f-3193-41c0-83c2-b630b1b17c0b")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 2.07 -1.57)
@@ -13423,7 +13423,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/fb76ca8d-aeab-4d62-af36-b4bf6f83fcdc")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.21 1)
@@ -13719,7 +13719,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a8d985d1-206b-4e01-9e80-1e991fdff7c3")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.153641 -0.38)
@@ -13931,7 +13931,7 @@
 		)
 		(path "/387540b0-3886-4976-bc2a-f1f786659b8f")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -14170,7 +14170,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/8eec489e-bae3-49d6-82fe-bbf659131a2e")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.21 -1)
@@ -14466,7 +14466,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6474cb4c-776b-4dd5-97ea-01a1adbcaa82")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.107836 -0.36)
@@ -14679,7 +14679,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9ccdeb11-d474-4214-884e-176865ecfef8")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.61 -0.85)
@@ -14964,7 +14964,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/981c8c04-4409-418a-95d4-318c337b2a9b")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 -3.81)
@@ -15343,7 +15343,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c42c30f9-a105-4ab1-a212-5efe02203fa9")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -15600,7 +15600,7 @@
 		)
 		(path "/3fa9f4f6-3add-4fac-91db-f3948f9f43ee")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.65 -1.56)
@@ -15916,7 +15916,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/df4cbd38-3527-4062-93ef-67591b612889")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 0.38)
@@ -16178,7 +16178,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3f45eaf7-6cae-4e54-bd6a-2bc5df7fd51a")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -16440,7 +16440,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7e272295-6695-4c2c-89eb-a0fe656c9117")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 0.38)
@@ -16660,7 +16660,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e2263618-7dc4-4d42-930c-13175718c383")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -16922,7 +16922,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4a86d7e6-c64e-4948-9beb-0d2b7d8e6c84")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -17142,7 +17142,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/86f7ba27-753b-4504-9d82-bdee17684fd2")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.107836 0.36)
@@ -17361,7 +17361,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d5ba6d75-2cef-4614-b3a8-1c3e0c6c61b3")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.05 0.85)
@@ -17695,7 +17695,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b63febf1-0824-43e9-a60f-eb6f36f3c45f")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.107836 0.36)
@@ -17957,7 +17957,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b20cfa29-99eb-4418-98b3-1394db721c80")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 0.38)
@@ -18177,7 +18177,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/52f1f0ca-5a29-4079-ae8a-4e6bc442dbfd")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.26 -0.6)
@@ -18511,7 +18511,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4896e9d1-014a-417e-9d1b-574405ac6905")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -18730,7 +18730,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3a1587f6-0290-468c-a288-42b4e63f9f6d")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 0.5225)
@@ -18992,7 +18992,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/41344b10-6f71-4d94-bde3-665a2d6bdd76")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -19254,7 +19254,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/89129746-902b-4e3a-a515-d4ed141ee433")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 -0.38)
@@ -19512,7 +19512,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/5515aca6-96dd-43bb-9b60-0296b07b0072")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.95 -2.56)
@@ -19834,7 +19834,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b3da879a-78ea-4278-97ce-2cb510afc4c4")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.107836 -0.36)
@@ -20053,7 +20053,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00dcbe83-99d0-4fba-b8f6-55d67babf4e4")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.237258 -0.5225)
@@ -20300,7 +20300,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/1b0ef0f7-f784-4283-ae59-954a67c9b5db")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -20602,7 +20602,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/04a0e450-008c-463e-a89b-a8ca6eca001e")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.26 0.6)
@@ -20931,7 +20931,7 @@
 		)
 		(path "/780db796-55fa-480f-bda4-adf6fdf1fc50")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.65 1.56)
@@ -21247,7 +21247,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cb0df7f7-52f7-49f8-9ff9-6c2bed22307e")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 0.38)
@@ -21467,7 +21467,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/113f8762-5f6e-4f46-9209-b318d89ebf67")
 		(sheetname "根目录")
-		(sheetfile "solornode.kicad_sch")
+		(sheetfile "solarnode.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.153641 0.38)
