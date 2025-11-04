@@ -6943,6 +6943,16 @@
 		)
 		(uuid "1ee7578b-132d-4f86-8816-48bc666fd265")
 	)
+	(polyline
+		(pts
+			(xy 217.17 111.76) (xy 217.17 166.37)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "1f6ef4ea-66af-4e52-947b-607a9b9533ad")
+	)
 	(wire
 		(pts
 			(xy 91.44 177.8) (xy 92.71 177.8)
@@ -7313,6 +7323,16 @@
 		)
 		(uuid "4158388a-44cb-4444-b0ce-e970ccd2a312")
 	)
+	(polyline
+		(pts
+			(xy 284.48 111.76) (xy 217.17 111.76)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "416ee98f-d49a-4e01-b070-d77aa2eb71f5")
+	)
 	(wire
 		(pts
 			(xy 142.24 33.02) (xy 142.24 36.83)
@@ -7332,6 +7352,16 @@
 			(type default)
 		)
 		(uuid "43460232-9e15-41ed-9a4d-142fdb7bac9d")
+	)
+	(polyline
+		(pts
+			(xy 12.7 143.51) (xy 134.62 143.51)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "434f982d-a85d-4099-911b-3f8611c5e725")
 	)
 	(wire
 		(pts
@@ -7442,6 +7472,16 @@
 			(type default)
 		)
 		(uuid "5265965b-16e9-4396-a377-5101487c73fd")
+	)
+	(polyline
+		(pts
+			(xy 154.94 143.51) (xy 154.94 198.12)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "52e3bace-4b26-4f6f-8c3e-09d060595809")
 	)
 	(wire
 		(pts
@@ -7752,6 +7792,16 @@
 			(type default)
 		)
 		(uuid "73b62ac0-92e8-484b-a644-cad150009f7f")
+	)
+	(polyline
+		(pts
+			(xy 54.61 12.7) (xy 54.61 59.69)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "7444b597-fd8b-46e3-a679-fe0da75ff4b0")
 	)
 	(wire
 		(pts
@@ -8133,6 +8183,16 @@
 		)
 		(uuid "931b5569-25c6-4e04-b39e-c402c531543b")
 	)
+	(polyline
+		(pts
+			(xy 194.31 12.7) (xy 194.31 59.69)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "94d4ae89-3539-44d3-866f-a4e5e2d7b0ef")
+	)
 	(wire
 		(pts
 			(xy 195.58 107.95) (xy 198.12 107.95)
@@ -8333,6 +8393,16 @@
 		)
 		(uuid "aa10af6e-3b5c-4b56-bbb7-51879754e382")
 	)
+	(polyline
+		(pts
+			(xy 134.62 143.51) (xy 154.94 143.51)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "aaaa6a43-1248-470e-b107-71a2a603ed9d")
+	)
 	(wire
 		(pts
 			(xy 38.1 121.92) (xy 38.1 124.46)
@@ -8372,6 +8442,16 @@
 			(type default)
 		)
 		(uuid "af16ccce-f70d-468c-8bb3-eb7ffd0076e2")
+	)
+	(polyline
+		(pts
+			(xy 69.85 143.51) (xy 69.85 196.85)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "b10ad5ef-3441-4906-8feb-efa834241d3b")
 	)
 	(wire
 		(pts
@@ -8713,6 +8793,16 @@
 		)
 		(uuid "ce639d80-cc07-492c-a410-53e5c4276fb9")
 	)
+	(polyline
+		(pts
+			(xy 12.7 59.69) (xy 284.48 59.69)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "cf04eaac-4e1e-4ddf-9227-569eb705a879")
+	)
 	(wire
 		(pts
 			(xy 238.76 34.29) (xy 238.76 35.56)
@@ -8933,6 +9023,16 @@
 		)
 		(uuid "e93be29c-747f-4aa3-b78f-aad99bfee655")
 	)
+	(polyline
+		(pts
+			(xy 134.62 59.69) (xy 134.62 143.51)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "ebd0d30c-d875-4d52-8272-9075faf15244")
+	)
 	(wire
 		(pts
 			(xy 118.11 38.1) (xy 119.38 38.1)
@@ -9022,6 +9122,16 @@
 			(type default)
 		)
 		(uuid "f29eb126-2223-4fa2-85b9-e4bab6665cec")
+	)
+	(polyline
+		(pts
+			(xy 224.79 59.69) (xy 224.79 111.76)
+		)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(uuid "f3ad9d5c-128f-4cc8-999c-5fb31daf0923")
 	)
 	(wire
 		(pts
@@ -9172,6 +9282,126 @@
 			(type default)
 		)
 		(uuid "ffc2fa3a-80ee-4de3-8c61-ddecc20294b7")
+	)
+	(text "电源"
+		(exclude_from_sim no)
+		(at 58.42 14.732 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "11ad79ed-e326-4b67-80ad-e0f30d9a8505")
+	)
+	(text "主控"
+		(exclude_from_sim no)
+		(at 138.176 62.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "143c5d79-5fb6-443e-8ff0-25bf7f4bac44")
+	)
+	(text "按键和传感器"
+		(exclude_from_sim no)
+		(at 201.676 14.478 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1978a43d-32ba-47b0-948a-ee27fb367f20")
+	)
+	(text "RS485通信"
+		(exclude_from_sim no)
+		(at 18.796 62.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b4ff1ae-17c6-4410-9d4d-2854c5f4ad2f")
+	)
+	(text "可用于I2C或USART"
+		(exclude_from_sim no)
+		(at 176.784 146.812 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1d7e3a8e-cce8-40bd-a5b4-e60ea0679322")
+	)
+	(text "电压测量"
+		(exclude_from_sim no)
+		(at 229.362 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "38bfeb7e-fe5e-4f36-a1e4-783207026c17")
+	)
+	(text "此接口可输入模拟信号"
+		(exclude_from_sim no)
+		(at 146.812 113.538 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "64cf3425-8c1e-4b70-8064-5f8e962830db")
+	)
+	(text "接口"
+		(exclude_from_sim no)
+		(at 14.732 13.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6a1fae93-c63b-430e-be2a-5026c9aa078e")
+	)
+	(text "电流测量"
+		(exclude_from_sim no)
+		(at 222.758 114.554 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "74402176-83dd-46f0-8694-96ee59583a69")
+	)
+	(text "光伏Boost DC-DC电路"
+		(exclude_from_sim no)
+		(at 81.788 146.304 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "92590164-ecef-4e02-8d6d-cdab9be0781a")
+	)
+	(text "MOS管驱动"
+		(exclude_from_sim no)
+		(at 18.796 146.558 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "acc24186-5817-49c1-a4b5-b497455aa0a4")
+	)
+	(text "可用于I2C或USART"
+		(exclude_from_sim no)
+		(at 213.36 104.648 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e9e6fee3-4791-4277-a200-58bd932b4174")
 	)
 	(label "MOS_G"
 		(at 104.14 171.45 180)
