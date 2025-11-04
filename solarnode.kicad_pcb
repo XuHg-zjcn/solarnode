@@ -2171,7 +2171,7 @@
 		(descr "D_SOD-123F")
 		(tags "D_SOD-123F")
 		(property "Reference" "D1"
-			(at -2.85 0.1 180)
+			(at -2.94 0.1 180)
 			(layer "F.SilkS")
 			(uuid "31e1d738-b130-446b-9716-89c72c2545c6")
 			(effects
@@ -15494,7 +15494,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q4"
-			(at 2.5375 -1.2 90)
+			(at 2.52 0 90)
 			(layer "B.SilkS")
 			(uuid "efa9dd19-2473-4613-a030-b947204d5d3e")
 			(effects
@@ -20825,7 +20825,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q5"
-			(at 1.4625 2.55 180)
+			(at -2.4125 0 180)
 			(layer "B.SilkS")
 			(uuid "1a710533-90cc-49ca-ace1-76e19e674bad")
 			(effects
