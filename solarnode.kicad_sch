@@ -3179,7 +3179,7 @@
 				)
 			)
 		)
-		(symbol "Device:Q_NMOS_GDS"
+		(symbol "Device:Q_NMOS_GSD"
 			(pin_names
 				(offset 0) hide)
 			(exclude_from_sim no)
@@ -3194,7 +3194,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "Q_NMOS_GDS"
+			(property "Value" "Q_NMOS_GSD"
 				(at 5.08 -1.27 0)
 				(effects
 					(font
@@ -3221,7 +3221,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "N-MOSFET transistor, gate/drain/source"
+			(property "Description" "N-MOSFET transistor, gate/source/drain"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3239,7 +3239,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Q_NMOS_GDS_0_1"
+			(symbol "Q_NMOS_GSD_0_1"
 				(polyline
 					(pts
 						(xy 0.254 0) (xy -2.54 0)
@@ -3406,7 +3406,7 @@
 					)
 				)
 			)
-			(symbol "Q_NMOS_GDS_1_1"
+			(symbol "Q_NMOS_GSD_1_1"
 				(pin input line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -3426,9 +3426,9 @@
 					)
 				)
 				(pin passive line
-					(at 2.54 5.08 270)
+					(at 2.54 -5.08 90)
 					(length 2.54)
-					(name "D"
+					(name "S"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3444,9 +3444,9 @@
 					)
 				)
 				(pin passive line
-					(at 2.54 -5.08 90)
+					(at 2.54 5.08 270)
 					(length 2.54)
-					(name "S"
+					(name "D"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6506,6 +6506,12 @@
 		(uuid "ae70d9cc-9da6-4a3c-a8c1-9f3c7ee6f42a")
 	)
 	(junction
+		(at 58.42 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af5b51d0-e5c5-4c7b-8516-fb1ffc86069f")
+	)
+	(junction
 		(at 74.93 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6582,6 +6588,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7d878c1-ed89-43f0-b075-1f3109bd07cf")
+	)
+	(junction
+		(at 34.29 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec2dd55e-5e0d-4247-b205-42fa48fee7b5")
 	)
 	(junction
 		(at 83.82 27.94)
@@ -7865,6 +7877,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 157.48) (xy 34.29 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f072b5c-2e3a-4486-bb8b-56192fe0ef99")
+	)
+	(wire
+		(pts
 			(xy 113.03 177.8) (xy 113.03 179.07)
 		)
 		(stroke
@@ -8405,6 +8427,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 172.72) (xy 34.29 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aad5e738-5542-47bf-bdd5-9e92f75b3281")
+	)
+	(wire
+		(pts
 			(xy 38.1 121.92) (xy 38.1 124.46)
 		)
 		(stroke
@@ -8522,6 +8554,16 @@
 			(type default)
 		)
 		(uuid "b428884b-a7e4-461c-ad2d-29591055fc28")
+	)
+	(wire
+		(pts
+			(xy 34.29 176.53) (xy 41.91 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5734528-f486-4aaa-be18-f3256b3d2611")
 	)
 	(wire
 		(pts
@@ -8742,6 +8784,16 @@
 			(type default)
 		)
 		(uuid "c8cddfe9-7abb-4225-b1a2-6983612afbaa")
+	)
+	(wire
+		(pts
+			(xy 34.29 157.48) (xy 58.42 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c903ec98-0025-427a-a6bd-6d3d39a30ed7")
 	)
 	(wire
 		(pts
@@ -8975,7 +9027,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 176.53) (xy 41.91 176.53)
+			(xy 31.75 176.53) (xy 34.29 176.53)
 		)
 		(stroke
 			(width 0)
@@ -9694,7 +9746,7 @@
 		(uuid "938b20e8-f6f9-4105-9bc3-49233f470a71")
 	)
 	(label "MOS_DrvIn"
-		(at 39.37 176.53 180)
+		(at 31.75 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11219,7 +11271,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Q_NMOS_GDS")
+		(lib_id "Device:Q_NMOS_GSD")
 		(at 110.49 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11229,7 +11281,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e844083-8df5-450f-b340-5e627977d3ff")
 		(property "Reference" "Q1"
-			(at 116.84 170.1799 0)
+			(at 115.697 170.2378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11238,7 +11290,7 @@
 			)
 		)
 		(property "Value" "AO3400"
-			(at 116.84 172.7199 0)
+			(at 115.697 172.6621 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11264,7 +11316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "N-MOSFET transistor, gate/drain/source"
+		(property "Description" "N-MOSFET transistor, gate/source/drain"
 			(at 110.49 171.45 0)
 			(effects
 				(font
@@ -12037,6 +12089,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 34.29 168.91 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3bf82529-b168-4828-bdf7-b6dab6f39737")
+		(property "Reference" "R29"
+			(at 32.512 167.6978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 32.512 170.1221 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 36.068 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 34.29 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b1cf80e4-e1d5-4e42-9268-c9dd3385046f")
+		)
+		(pin "1"
+			(uuid "e6490393-7cb2-45d4-9b51-11e2abc26da5")
+		)
+		(instances
+			(project ""
+				(path "/4bca4b2b-dcb0-465d-ab23-8d5d35a41dfe"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 58.42 157.48 0)
 		(unit 1)
@@ -12602,7 +12724,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
+		(lib_id "Device:D_Zener")
 		(at 209.55 116.84 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12612,7 +12734,7 @@
 		(fields_autoplaced yes)
 		(uuid "4325f606-1438-4dc5-9e76-5f9083c2c7d6")
 		(property "Reference" "D9"
-			(at 213.36 117.1574 90)
+			(at 211.582 115.6278 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12621,7 +12743,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 213.36 119.6974 90)
+			(at 211.582 118.0521 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12647,7 +12769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "Zener diode"
 			(at 209.55 116.84 0)
 			(effects
 				(font
@@ -17679,9 +17801,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Zener")
+		(lib_id "Device:LED")
 		(at 41.91 168.91 90)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17689,7 +17810,7 @@
 		(dnp no)
 		(uuid "d5ba6d75-2cef-4614-b3a8-1c3e0c6c61b3")
 		(property "Reference" "D10"
-			(at 39.878 167.6978 90)
+			(at 39.878 170.1222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17697,8 +17818,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.0V"
-			(at 39.878 170.1221 90)
+		(property "Value" "~"
+			(at 39.878 167.6979 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17724,7 +17845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Zener diode"
+		(property "Description" "Light emitting diode"
 			(at 41.91 168.91 0)
 			(effects
 				(font
