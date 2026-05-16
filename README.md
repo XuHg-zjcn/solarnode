@@ -12,6 +12,8 @@
 - 一个按键和指示灯
 - UART和I2C接口，可连接其他传感器或进行调试
 
+为不同功率的光伏组件分别设计一些控制器
+
 ## 版权和许可证
 Copyright (C) 2025  徐瑞骏
 本设计使用的为许可证“CERN Open Hardware Licence Version 2 - Strongly Reciprocal”
