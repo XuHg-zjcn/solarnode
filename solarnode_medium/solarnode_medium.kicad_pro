@@ -608,6 +608,18 @@
     [
       "02bd9ea1-7d62-409c-9b7f-8139c011cbf3",
       "Root"
+    ],
+    [
+      "74690d47-641f-4928-830b-0917aedb6d6f",
+      "DC-DC"
+    ],
+    [
+      "73cb0bcd-9811-463d-85cd-bd1689fe0808",
+      "MCU and Commication"
+    ],
+    [
+      "e097773b-34cf-40c2-884c-3640254d3676",
+      "Power"
     ]
   ],
   "text_variables": {}
