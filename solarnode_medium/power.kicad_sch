@@ -396,6 +396,141 @@
 				)
 			)
 		)
+		(symbol "Device:C_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "capacitor cap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:D"
 			(pin_numbers hide)
 			(pin_names
@@ -2088,6 +2223,12 @@
 		(uuid "3b34bfcd-c4f2-4812-98af-dec7e2ecd2df")
 	)
 	(junction
+		(at 233.68 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bf00b68-88b7-4e77-96e8-dbacf3dd3518")
+	)
+	(junction
 		(at 236.22 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2130,6 +2271,12 @@
 		(uuid "948f6456-387f-4fa3-9307-3879bc609920")
 	)
 	(junction
+		(at 147.32 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8febfc5-c381-4f3b-bcc9-5209380b68f9")
+	)
+	(junction
 		(at 151.13 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2158,6 +2305,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0230a6e-68bd-44ac-b773-ada60467a67c")
+	)
+	(junction
+		(at 242.57 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0833351-cab1-4252-85da-d49651c19b5e")
 	)
 	(junction
 		(at 219.71 85.09)
@@ -2201,13 +2354,11 @@
 		(color 0 0 0 0)
 		(uuid "ee7d30ba-c40a-4e17-aa36-16d5c3d03190")
 	)
-	(no_connect
-		(at 232.41 66.04)
-		(uuid "0f2f4690-8f09-49af-80e1-b83adfc17919")
-	)
-	(no_connect
-		(at 137.16 66.04)
-		(uuid "c86f6ba1-5dd8-4e6b-bee3-8963b9b917dd")
+	(junction
+		(at 138.43 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0ade6c0-d742-4a99-962a-56f697e4e93b")
 	)
 	(wire
 		(pts
@@ -2238,6 +2389,16 @@
 			(type default)
 		)
 		(uuid "0352b0a4-2524-478d-a425-d1b06531b9e0")
+	)
+	(wire
+		(pts
+			(xy 137.16 66.04) (xy 138.43 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "075f255d-58e3-464f-8326-06be531be4ec")
 	)
 	(wire
 		(pts
@@ -2291,7 +2452,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 71.12) (xy 236.22 71.12)
+			(xy 232.41 71.12) (xy 233.68 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2351,6 +2512,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 74.93) (xy 242.57 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dd48632-b692-4af0-b707-18d8bb1be2e6")
+	)
+	(wire
+		(pts
 			(xy 246.38 83.82) (xy 246.38 85.09)
 		)
 		(stroke
@@ -2368,6 +2539,16 @@
 			(type default)
 		)
 		(uuid "31ff178a-9ec2-4bf5-981d-3733b3b391ab")
+	)
+	(wire
+		(pts
+			(xy 138.43 74.93) (xy 138.43 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32707fbe-f9c2-44ec-b33f-7bc8254888cb")
 	)
 	(wire
 		(pts
@@ -2451,6 +2632,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 74.93) (xy 242.57 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56bf8d14-fce8-4600-8a77-2d596fb3a2aa")
+	)
+	(wire
+		(pts
 			(xy 69.85 73.66) (xy 72.39 73.66)
 		)
 		(stroke
@@ -2458,6 +2649,26 @@
 			(type default)
 		)
 		(uuid "59145e30-13c0-43a6-b81c-92a5c16bc34d")
+	)
+	(wire
+		(pts
+			(xy 233.68 74.93) (xy 233.68 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594862f8-f171-4861-af6a-85c5ec3f461b")
+	)
+	(wire
+		(pts
+			(xy 144.78 74.93) (xy 147.32 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b390b3f-b3f9-444a-a6a0-1c4a239e8109")
 	)
 	(wire
 		(pts
@@ -2601,6 +2812,16 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 71.12) (xy 236.22 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ce4485c-c78c-4e1f-b1a2-9eee67920603")
+	)
+	(wire
+		(pts
 			(xy 171.45 85.09) (xy 171.45 86.36)
 		)
 		(stroke
@@ -2711,6 +2932,26 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 66.04) (xy 233.68 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b529a9cc-346f-4700-9da8-e54138ed79ef")
+	)
+	(wire
+		(pts
+			(xy 138.43 71.12) (xy 140.97 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbb0eecd-6bb5-4339-9356-10223f0fd84c")
+	)
+	(wire
+		(pts
 			(xy 246.38 85.09) (xy 236.22 85.09)
 		)
 		(stroke
@@ -2741,7 +2982,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 71.12) (xy 140.97 71.12)
+			(xy 137.16 71.12) (xy 138.43 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2821,6 +3062,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 74.93) (xy 147.32 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc63964-db5e-44d4-b935-2359bae3194a")
+	)
+	(wire
+		(pts
 			(xy 147.32 76.2) (xy 151.13 76.2)
 		)
 		(stroke
@@ -2848,6 +3099,16 @@
 			(type default)
 		)
 		(uuid "de56a0f0-6121-4437-aa1f-c9bc4627be03")
+	)
+	(wire
+		(pts
+			(xy 234.95 74.93) (xy 233.68 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6e5da1-b493-42e8-b6fe-44ea77deff67")
 	)
 	(wire
 		(pts
@@ -2938,6 +3199,16 @@
 			(type default)
 		)
 		(uuid "fcea9cba-0ff8-43c7-bb6a-9b0fc9965da7")
+	)
+	(wire
+		(pts
+			(xy 139.7 74.93) (xy 138.43 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd7ea7d9-97d6-4d38-81d7-1d15c0d6b5aa")
 	)
 	(wire
 		(pts
@@ -3343,6 +3614,76 @@
 			(project "solarnode_medium"
 				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 138.43 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33ebae82-92e5-4a94-a58e-2fa62a50ff0f")
+		(property "Reference" "C23"
+			(at 140.97 67.3162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 140.97 69.8562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 138.43 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 138.43 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "23ab6ca4-3d32-4139-96b7-c265e0c577c9")
+		)
+		(pin "1"
+			(uuid "786a55e2-fa12-462a-a2a7-68df8832d40d")
+		)
+		(instances
+			(project ""
+				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -3800,6 +4141,144 @@
 			(project "solarnode_medium"
 				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
 					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 233.68 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "73ac27ff-d9b0-4a78-808a-ee4e964d2adf")
+		(property "Reference" "C25"
+			(at 236.22 67.3162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 236.22 69.8562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 233.68 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 233.68 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 233.68 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a23acf5f-7c7d-40e4-9743-245f397a4b56")
+		)
+		(pin "1"
+			(uuid "a2acc005-8123-4096-be6f-6959f452fb46")
+		)
+		(instances
+			(project "solarnode_medium"
+				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 142.24 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "799d10f5-058a-4df8-a4bb-555e2f2e39ac")
+		(property "Reference" "C24"
+			(at 142.2463 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 142.2463 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 142.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 142.24 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3f54ad1e-b909-4154-aa7f-a3140dcae46c")
+		)
+		(pin "1"
+			(uuid "49ca808f-87bb-4a33-8620-e967475b22a8")
+		)
+		(instances
+			(project "solarnode_medium"
+				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -4559,6 +5038,74 @@
 			(project "solarnode_medium"
 				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 237.49 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c48c30ff-3aee-4baf-a108-cf75a11fef90")
+		(property "Reference" "C26"
+			(at 237.4963 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 237.4963 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 237.49 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 237.49 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c4e0c18f-3063-43cf-a990-0e978548f63b")
+		)
+		(pin "1"
+			(uuid "51d02cd9-9b1f-42ac-85a2-a4f1345aaf01")
+		)
+		(instances
+			(project "solarnode_medium"
+				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/e097773b-34cf-40c2-884c-3640254d3676"
+					(reference "C26")
 					(unit 1)
 				)
 			)
