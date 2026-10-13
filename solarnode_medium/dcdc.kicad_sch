@@ -3310,6 +3310,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 172.72) (xy 45.72 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af336aa9-5d80-4847-bd28-56e1358d903f")
+	)
+	(wire
+		(pts
 			(xy 95.25 111.76) (xy 95.25 120.65)
 		)
 		(stroke
@@ -3470,6 +3480,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 172.72) (xy 95.25 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d53ae707-db9b-4542-ac4b-2904752664cd")
+	)
+	(wire
+		(pts
 			(xy 208.28 76.2) (xy 213.36 76.2)
 		)
 		(stroke
@@ -3497,6 +3517,16 @@
 			(type default)
 		)
 		(uuid "d845fb12-152d-452d-8f32-e5dfc7e438cb")
+	)
+	(wire
+		(pts
+			(xy 93.98 170.18) (xy 95.25 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d89c5efe-c046-4854-8669-0cfdf7576244")
 	)
 	(wire
 		(pts
@@ -3620,6 +3650,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 170.18) (xy 45.72 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7e647c3-c80e-4af5-b3b0-765e8200657d")
+	)
+	(wire
+		(pts
 			(xy 248.92 78.74) (xy 248.92 77.47)
 		)
 		(stroke
@@ -3678,16 +3718,6 @@
 		)
 		(uuid "83c57a63-02da-423b-a4ba-83f533795b03")
 	)
-	(label "SLR-"
-		(at 27.94 137.16 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "08aba085-f529-442b-9f60-4d5e820fcd29")
-	)
 	(label "MOS3_G"
 		(at 69.85 132.08 270)
 		(effects
@@ -3718,16 +3748,6 @@
 		)
 		(uuid "289e6740-6214-415c-bbd0-04d294a8ab1d")
 	)
-	(label "BUS-"
-		(at 107.95 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2cf007f0-9da9-4db8-8cc3-34b1832ef3e2")
-	)
 	(label "SLR_Is"
 		(at 41.91 144.78 0)
 		(effects
@@ -3747,16 +3767,6 @@
 			(justify left bottom)
 		)
 		(uuid "57bcbcce-e84e-4df5-9834-c0b06833ca05")
-	)
-	(label "SLR+"
-		(at 29.21 111.76 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5a142b78-eb2b-4468-a7bd-9eaa33333a29")
 	)
 	(label "MOS4_G"
 		(at 113.03 170.18 0)
@@ -3788,16 +3798,6 @@
 		)
 		(uuid "67150d34-b072-4ef1-9e7d-83f8021537d7")
 	)
-	(label "ADC_Vslr"
-		(at 228.6 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9cc45316-4473-4d68-bb4e-f0c31bf97eeb")
-	)
 	(label "SLR-"
 		(at 214.63 113.03 180)
 		(effects
@@ -3827,16 +3827,6 @@
 			(justify right bottom)
 		)
 		(uuid "c260cd28-f8f1-46bd-aadd-28c4bb13c2a7")
-	)
-	(label "ADC_Ibus"
-		(at 250.19 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cb0fcc7d-5619-4cd8-a183-e4f2eca61c42")
 	)
 	(label "SLR+"
 		(at 208.28 66.04 180)
@@ -3868,26 +3858,6 @@
 		)
 		(uuid "d2e39c6d-0040-4a3b-8d77-f2bf8c8f58c2")
 	)
-	(label "ADC_Vbus"
-		(at 264.16 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d9b1d4af-d2da-492d-883d-3c4331ecddf3")
-	)
-	(label "ADC_Islr"
-		(at 250.19 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "de125326-2aa6-4cfd-94e0-2f42c1006e71")
-	)
 	(label "BUS_Is"
 		(at 214.63 140.97 180)
 		(effects
@@ -3898,16 +3868,6 @@
 		)
 		(uuid "f2f390db-88bc-496c-a2ad-6b156d65ca8e")
 	)
-	(label "BUS+"
-		(at 107.95 111.76 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f9cecc0a-7469-4bd0-a85a-9dd049b21e0a")
-	)
 	(label "MOS1_G"
 		(at 63.5 170.18 0)
 		(effects
@@ -3917,6 +3877,138 @@
 			(justify left bottom)
 		)
 		(uuid "fb260327-4a2b-4105-b1bf-4eef46b3fdb5")
+	)
+	(hierarchical_label "ADC_Vbus"
+		(shape output)
+		(at 264.16 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0d794f28-a76f-46ae-9282-bc7dac5fe03c")
+	)
+	(hierarchical_label "ADC_Ibus"
+		(shape output)
+		(at 250.19 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e6d5d4c-c1c7-4090-be9a-f9dcc7233781")
+	)
+	(hierarchical_label "Driver_2L"
+		(shape input)
+		(at 93.98 172.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0fa379ad-62cd-4241-93a7-f6ab1be5b815")
+	)
+	(hierarchical_label "SLR-"
+		(shape input)
+		(at 27.94 137.16 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2da7621e-478a-42cf-8b0f-fce382c5796a")
+	)
+	(hierarchical_label "Driver_1H"
+		(shape input)
+		(at 44.45 170.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4bd3d303-f5fc-4407-8b5e-78bae6afba1c")
+	)
+	(hierarchical_label "ADC_Islr"
+		(shape output)
+		(at 250.19 110.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "609ae432-1209-402f-b29f-aa17511d871e")
+	)
+	(hierarchical_label "BUS+"
+		(shape output)
+		(at 107.95 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "62fcd0c6-26b0-40a1-b053-fa83967ddd39")
+	)
+	(hierarchical_label "SLR+"
+		(shape input)
+		(at 29.21 111.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8babe64d-416c-46d4-9059-32e145a2c54b")
+	)
+	(hierarchical_label "BUS-"
+		(shape output)
+		(at 107.95 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f56f6c4-3a29-4bc9-8aaf-a6479e6a96c0")
+	)
+	(hierarchical_label "Driver_2H"
+		(shape input)
+		(at 93.98 170.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ae8ed3a8-0b8a-4a6c-b3a1-adaf9dbbd74f")
+	)
+	(hierarchical_label "Driver_1L"
+		(shape input)
+		(at 44.45 172.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ebd34d68-5248-4b78-b34a-93fd3bf19aa3")
+	)
+	(hierarchical_label "ADC_Vslr"
+		(shape output)
+		(at 228.6 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f43d5957-14c7-450c-a4bc-abc795a00849")
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
