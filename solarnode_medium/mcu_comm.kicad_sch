@@ -6451,6 +6451,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 123.19) (xy 91.44 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2df0257f-417d-403a-96a2-c5c0d48f5f1c")
+	)
+	(wire
+		(pts
 			(xy 157.48 91.44) (xy 190.5 91.44)
 		)
 		(stroke
@@ -6811,6 +6821,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 90.17) (xy 91.44 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a43969e-6067-45b3-8f45-062cc15959da")
+	)
+	(wire
+		(pts
 			(xy 243.84 87.63) (xy 243.84 96.52)
 		)
 		(stroke
@@ -7001,6 +7021,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 100.33) (xy 91.44 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b403b24-12b4-486b-9244-0a927e5b8121")
+	)
+	(wire
+		(pts
 			(xy 52.07 107.95) (xy 55.88 107.95)
 		)
 		(stroke
@@ -7121,6 +7151,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 87.63) (xy 91.44 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76d90d95-6dab-4281-9cbb-89489f456ac4")
+	)
+	(wire
+		(pts
 			(xy 44.45 99.06) (xy 36.83 99.06)
 		)
 		(stroke
@@ -7208,6 +7248,26 @@
 			(type default)
 		)
 		(uuid "7fc4ad5d-9697-47a7-8c92-fa09816d21c3")
+	)
+	(wire
+		(pts
+			(xy 92.71 92.71) (xy 91.44 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82624667-7177-4fa4-b37b-aa308cb77677")
+	)
+	(wire
+		(pts
+			(xy 92.71 95.25) (xy 91.44 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8271290c-7b2f-45ad-83f1-dab04133bc9f")
 	)
 	(wire
 		(pts
@@ -8280,12 +8340,12 @@
 		(uuid "0ee021ce-acb8-4e4d-ac17-1f3fb4911e1e")
 	)
 	(label "MAX485_TR"
-		(at 31.75 107.95 180)
+		(at 92.71 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "14c7633f-957d-4733-b00c-45b001519d59")
 	)
@@ -8591,7 +8651,7 @@
 	)
 	(hierarchical_label "ADC_Ibus"
 		(shape input)
-		(at 102.87 96.52 0)
+		(at 92.71 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8602,7 +8662,7 @@
 	)
 	(hierarchical_label "ADC_Islr"
 		(shape input)
-		(at 102.87 93.98 0)
+		(at 92.71 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8613,7 +8673,7 @@
 	)
 	(hierarchical_label "DC12V_EN"
 		(shape output)
-		(at 105.41 130.81 0)
+		(at 92.71 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8646,7 +8706,7 @@
 	)
 	(hierarchical_label "ADC_Vslr"
 		(shape input)
-		(at 102.87 88.9 0)
+		(at 92.71 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8657,7 +8717,7 @@
 	)
 	(hierarchical_label "ADC_Vbus"
 		(shape input)
-		(at 102.87 91.44 0)
+		(at 92.71 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
