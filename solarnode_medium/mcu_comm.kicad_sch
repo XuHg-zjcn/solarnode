@@ -8719,72 +8719,6 @@
 		(uuid "f67a616c-efba-43d9-b4d3-89a5bcfba18a")
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 261.62 125.73 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "03ebc1ee-96f1-49bd-a81f-3545d534a92b")
-		(property "Reference" "#PWR34"
-			(at 261.62 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 261.62 121.5969 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 261.62 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ca7914f-0b5b-46c4-9dd7-f2aeb76f00be")
-		)
-		(instances
-			(project "solarnode_medium"
-				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/73cb0bcd-9811-463d-85cd-bd1689fe0808"
-					(reference "#PWR34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 181.61 147.32 90)
 		(unit 1)
@@ -12546,6 +12480,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 261.62 125.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5959726-40a7-46b1-be98-ba8ba86becee")
+		(property "Reference" "#PWR34"
+			(at 261.62 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VB"
+			(at 261.62 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 261.62 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 261.62 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "130196d1-1ace-4a30-83f1-e7263fcdbbe7")
+		)
+		(instances
+			(project "solarnode_medium"
+				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/73cb0bcd-9811-463d-85cd-bd1689fe0808"
+					(reference "#PWR34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 190.5 152.4 90)
 		(unit 1)
@@ -12608,6 +12608,72 @@
 			(project ""
 				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/73cb0bcd-9811-463d-85cd-bd1689fe0808"
 					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 157.48 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8b8ba3e-a97e-4059-b295-6ade339217b0")
+		(property "Reference" "#PWR7"
+			(at 157.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5VB"
+			(at 157.48 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 157.48 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f6441442-40aa-428c-bd58-5a25e361f840")
+		)
+		(instances
+			(project "solarnode_medium"
+				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/73cb0bcd-9811-463d-85cd-bd1689fe0808"
+					(reference "#PWR7")
 					(unit 1)
 				)
 			)
@@ -13441,72 +13507,6 @@
 			(project "solarnode_medium"
 				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/73cb0bcd-9811-463d-85cd-bd1689fe0808"
 					(reference "Y2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 157.48 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d21c8f43-2285-48f3-86ae-9357f93c87e8")
-		(property "Reference" "#PWR7"
-			(at 157.48 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 157.48 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 157.48 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 157.48 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9d0dc0ad-a998-4317-97ac-2eded7d209b0")
-		)
-		(instances
-			(project "solarnode_medium"
-				(path "/02bd9ea1-7d62-409c-9b7f-8139c011cbf3/73cb0bcd-9811-463d-85cd-bd1689fe0808"
-					(reference "#PWR7")
 					(unit 1)
 				)
 			)
