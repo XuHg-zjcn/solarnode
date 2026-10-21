@@ -8229,16 +8229,6 @@
 		)
 		(uuid "182e7d84-1dce-4166-867e-59f91147ede0")
 	)
-	(text "SPI1"
-		(exclude_from_sim no)
-		(at 41.148 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2fadbe8f-246f-4180-95fa-4daee95ce07c")
-	)
 	(text "I2C1"
 		(exclude_from_sim no)
 		(at 41.148 136.398 0)
@@ -8279,7 +8269,7 @@
 		)
 		(uuid "b8f88b66-1da8-4163-9ab9-a43a69fed8df")
 	)
-	(text "TODO 添加屏幕"
+	(text "暂不添加屏幕"
 		(exclude_from_sim no)
 		(at 132.842 27.432 0)
 		(effects
@@ -8299,16 +8289,6 @@
 		)
 		(uuid "f5ebd64e-dcfb-4f13-a08e-f358e96dab59")
 	)
-	(label "SCK"
-		(at 54.61 123.19 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "050b0ff9-acfc-4ff4-a6e2-d3d47d3cdffb")
-	)
 	(label "MAX485_DI"
 		(at 146.05 81.28 180)
 		(effects
@@ -8320,7 +8300,7 @@
 		(uuid "0667db88-c03f-4f6f-b336-b6cca43a6760")
 	)
 	(label "KEY1"
-		(at 31.75 97.79 180)
+		(at 54.61 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8499,16 +8479,6 @@
 		)
 		(uuid "956fa4fa-0aed-4f15-9617-701f964c7b7e")
 	)
-	(label "MOSI"
-		(at 54.61 128.27 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9720b965-19a0-4320-904c-d74c60fd4d2b")
-	)
 	(label "LED_B"
 		(at 54.61 115.57 180)
 		(effects
@@ -8550,7 +8520,7 @@
 		(uuid "ac9d00e9-b206-4cfe-9016-2a626927f3ac")
 	)
 	(label "KEY2"
-		(at 31.75 100.33 180)
+		(at 54.61 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8589,16 +8559,6 @@
 		)
 		(uuid "d6864597-fdb1-4a36-933d-e97925cdd05d")
 	)
-	(label "MISO"
-		(at 54.61 125.73 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d7fa6a53-4d41-4c5a-8a78-1ea97ceeba08")
-	)
 	(label "ADC_T"
 		(at 273.05 30.48 0)
 		(effects
@@ -8610,7 +8570,7 @@
 		(uuid "e0e35822-56a5-4645-b62a-c35b10f5f146")
 	)
 	(label "KEY3"
-		(at 31.75 102.87 180)
+		(at 54.61 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
