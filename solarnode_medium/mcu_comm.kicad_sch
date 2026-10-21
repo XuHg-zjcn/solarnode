@@ -6891,6 +6891,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 118.11) (xy 55.88 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60862a2f-a1db-4a49-bfc3-7d9d79c4e08d")
+	)
+	(wire
+		(pts
 			(xy 54.61 133.35) (xy 55.88 133.35)
 		)
 		(stroke
@@ -8580,7 +8590,7 @@
 		(uuid "f0bcc1d5-9c3e-4c78-97bb-a0e802ccec76")
 	)
 	(label "SPK"
-		(at 31.75 110.49 180)
+		(at 54.61 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
