@@ -7154,6 +7154,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 113.03) (xy 92.71 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53eaff73-5821-413b-8386-a781593e783e")
+	)
+	(wire
+		(pts
 			(xy 191.77 68.58) (xy 194.31 68.58)
 		)
 		(stroke
@@ -8354,6 +8364,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 115.57) (xy 92.71 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dba03449-c561-4967-94c4-6130d768384e")
+	)
+	(wire
+		(pts
 			(xy 139.7 163.83) (xy 151.13 163.83)
 		)
 		(stroke
@@ -9165,6 +9185,17 @@
 		)
 		(uuid "30bfc44e-93fc-491c-8f92-cfd9fef66abf")
 	)
+	(hierarchical_label "DET_LINE1"
+		(shape bidirectional)
+		(at 92.71 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "395d770e-6a10-435e-a470-09f20a291a14")
+	)
 	(hierarchical_label "Driver_1L"
 		(shape output)
 		(at 54.61 148.59 180)
@@ -9208,6 +9239,17 @@
 			(justify left)
 		)
 		(uuid "956291b4-31df-40cd-8cbc-64cf9d0e4a63")
+	)
+	(hierarchical_label "DET_LINE2"
+		(shape bidirectional)
+		(at 92.71 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "abb538f9-a751-4e05-be8a-8c0fa684f191")
 	)
 	(hierarchical_label "Driver_2H"
 		(shape output)
